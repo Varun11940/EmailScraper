@@ -34,7 +34,7 @@ def parseAddress():
 def execute():
 	parseAddress()
 
-### MAIN
+### Main
 
 def main():
 	execute()
