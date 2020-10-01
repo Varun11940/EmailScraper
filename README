@@ -6,6 +6,6 @@ Using python 2.7, execute emailScrape.py
 Enter website to scrape
 E-mails will output to screen
 
-TODO:
+Procedure:
 ** Enable scanning of entire website and not just a single page
 ** Output to a file named after the URL
